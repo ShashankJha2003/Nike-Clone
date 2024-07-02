@@ -1,1 +1,0 @@
-export const SET_NAVBAR_PATH = "SET_NAVBAR_PATH";
